@@ -16,7 +16,7 @@ ms.locfileid: "30789441"
 ---
 # <a name="synchronizing-data-with-web-services"></a>Sincronización de datos con los servicios Web
 
-_La sincronización sin conexión permite a los usuarios interactuar con una aplicación móvil, ver, agregar o modificar los datos, incluso cuando no hay una conexión de red. Estos cambios se almacenan en una base de datos local y una vez que el dispositivo está en línea, se pueden sincronizar los cambios en el servicio web._
+_La sincronización sin conexión permite a los usuarios interactuar con una aplicación móvil, ver, agregar y modificar los datos incluso cuando no hay una conexión de red. Estos cambios se almacenan en una base de datos local y una vez que el dispositivo está en línea, se pueden sincronizar los cambios con el servicio web._
 
 ## <a name="synchronizing-offline-data-with-azure-mobile-appsazure-mobile-appsmd"></a>[Sincronización de datos sin conexión con aplicaciones móviles de Azure](azure-mobile-apps.md)
 
